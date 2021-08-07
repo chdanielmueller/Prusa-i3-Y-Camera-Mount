@@ -1,4 +1,4 @@
-# Prusa i3 Y Camera Mount
+# Prusa i3 Y-carriage Camera Mount
 
 This Camera Mount is designed to hold a Papalook PA452 1080P webcam in a smaller custom case on the Y-carriage.
 
