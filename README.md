@@ -22,6 +22,8 @@ To assemble the Camera Mount you will need to do the following steps:
 - Secure everything with cable ties. Make sure the Y carriage is able to move freely!
 - Enjoy the new view of your printer
 
+[Timelapse Sample](https://user-images.githubusercontent.com/4051999/128605927-fc3787eb-fd8d-4be8-980f-730afbff5e8f.mp4)
+
 Designed in Fusion 360.
 Camera Mount Arm based upon the [Original Prusa Printer Frame](https://github.com/prusa3d/Original-Prusa-i3/blob/bc7818d10d57f30d17bde0574f4be1c39c957a27/Frame/MK3v8b.dxf)
 
@@ -40,4 +42,3 @@ Small self-tapping screws: [AliExpress (affiliate)](https://s.click.aliexpress.c
 ![Camera Front](https://user-images.githubusercontent.com/4051999/128605915-38d8e46b-98c0-4b11-a265-699c5fcc8af8.jpg)
 ![Cable Management](https://user-images.githubusercontent.com/4051999/128605920-eb550261-d1aa-4484-8826-aed8c3be5285.jpg)
 ![Cable Management Back](https://user-images.githubusercontent.com/4051999/128605923-e9b70525-3287-41e2-94ac-42adb5024d86.jpg)
-https://user-images.githubusercontent.com/4051999/128605927-fc3787eb-fd8d-4be8-980f-730afbff5e8f.mp4
