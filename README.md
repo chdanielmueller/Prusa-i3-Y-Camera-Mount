@@ -35,9 +35,9 @@ Small self-tapping screws: [AliExpress (affiliate)](https://s.click.aliexpress.c
 
 ## Images
 
+![Timelapse Sample](https://user-images.githubusercontent.com/4051999/128605927-fc3787eb-fd8d-4be8-980f-730afbff5e8f.mp4)
 ![Overview](https://user-images.githubusercontent.com/4051999/128605909-1dc2fa7b-69cd-4e17-bbd0-1ca39f04fbf8.jpg)
 ![Camera Side](https://user-images.githubusercontent.com/4051999/128605912-6919ef21-d285-45e3-8cbd-e26b349dda31.jpg)
 ![Camera Front](https://user-images.githubusercontent.com/4051999/128605915-38d8e46b-98c0-4b11-a265-699c5fcc8af8.jpg)
 ![Cable Management](https://user-images.githubusercontent.com/4051999/128605920-eb550261-d1aa-4484-8826-aed8c3be5285.jpg)
 ![Cable Management Back](https://user-images.githubusercontent.com/4051999/128605923-e9b70525-3287-41e2-94ac-42adb5024d86.jpg)
-![Timelapse Sample](https://user-images.githubusercontent.com/4051999/128605927-fc3787eb-fd8d-4be8-980f-730afbff5e8f.mp4)
