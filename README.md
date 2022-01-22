@@ -27,11 +27,11 @@ Camera Mount Arm based upon the [Original Prusa Printer Frame](https://github.co
 
 ## Additional parts
 
-Papalook PA452 1080P webcam: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_AB1nCW), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/1005002599960500.html)
+Papalook PA452 1080P webcam: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_A59lK0), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/1005002599960500.html)
 
-1.8mm 180° Fisheye Lens: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_AYI030), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/4001289963192.html)
+1.8mm 180° Fisheye Lens: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_9I0oSk), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/32804179806.html)
 
-Small self-tapping screws: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_AZpmT0), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/4000170569094.html)
+Small self-tapping screws: [AliExpress (affiliate)](https://s.click.aliexpress.com/e/_9jhQ7Q), [AliExpress (non-affiliate)](https://www.aliexpress.com/item/32907951215.html)
 
 ## Images
 
